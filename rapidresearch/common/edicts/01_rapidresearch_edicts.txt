@@ -1,0 +1,36 @@
+country_edict = {
+  name = "drug_enhanced_research"
+  modifier = {
+    country_engineering_tech_research_speed = 2.0
+    country_society_tech_research_speed = 2.0
+    country_physics_tech_research_speed = 2.0
+  }
+  
+  influence_cost = 8
+    
+  allow = {
+    NOR = {
+      has_country_edict = engineering_research_focus
+      has_country_edict = physics_research_focus
+      has_country_edict = society_research_focus
+    }
+  }
+  
+  ai_weight = {
+    weight = 0
+  }  
+}
+
+country_edict = {
+  name = "going_to_war"
+  modifier = {
+    ship_upkeep_mult = -0.30
+  }
+  
+  influence_cost = 5
+    
+  ai_weight = {
+    weight = 0
+  }  
+}
+

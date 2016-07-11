@@ -1,0 +1,21 @@
+orbital_research_outpost = {
+	icon = "GFX_spaceport_module_observatory"
+	section = "SCIENCE_SPACEPORT_SECTION"
+	construction_days = 180
+	prerequisites = { }
+	spaceport_level = 1
+	
+	cost = {
+		minerals = 100
+	}
+	
+	required_resources = {
+		energy = 1
+	}
+
+	produced_resources = {
+		physics_research = 7
+		society_research = 7
+		engineering_research = 7
+	}
+}
