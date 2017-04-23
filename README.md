@@ -9,7 +9,7 @@ http://steamcommunity.com/sharedfiles/filedetails/?id=722086034
 ## Workshop desc 
 
 ```
-[b]Last updated: Apr 10nd 2017[/b]
+[b][h1]Last updated:[/h1] Apr 23rd 2017[/b]
 Supports [b]1.5.1[/b] and [b]Leviathian DLC[/b]
 Source: [url=https://github.com/psykzz/Rapid-Research]https://github.com/psykzz/Rapid-Research[/url]
 
@@ -17,13 +17,13 @@ The aim with this mod is to push you quicker into the late game by allowing you 
 
 This mod provides two different systems, one for the early game and another for late game.
 
-Spaceport upgrades:
+[h1]Spaceport upgrades:[/h1]
 [list]
     [*]Orbital Research Outpost
     [*]Provides a flat bonus of 7 to each research stat.
 [/list]
 
-Additional Edicts:
+[h1]Additional Edicts:[/h1]
 [list]
     [*]Drug enhanced research
     [*]For a cost of 8 influence, provides a 200% boost to all research.
