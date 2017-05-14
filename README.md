@@ -9,9 +9,11 @@ http://steamcommunity.com/sharedfiles/filedetails/?id=722086034
 ## Workshop desc 
 
 ```
-[b][h1]Last updated:[/h1] Apr 23rd 2017[/b]
-Supports [b]1.5.1[/b] and [b]Leviathian DLC[/b]
+[b][h1]Last updated:[/h1] May 14th 2017[/b]
+Supports [b]1.6.0[/b] and [b]Leviathian DLC[/b]
 Source: [url=https://github.com/psykzz/Rapid-Research]https://github.com/psykzz/Rapid-Research[/url]
+
+Support for all languages (although its not translated)
 
 The aim with this mod is to push you quicker into the late game by allowing you to manage your influence as a way to boost your research. 
 
