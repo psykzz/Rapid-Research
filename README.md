@@ -9,8 +9,8 @@ http://steamcommunity.com/sharedfiles/filedetails/?id=722086034
 ## Workshop desc 
 
 ```
-[b][h1]Last updated:[/h1] Sept 21st 2017[/b]
-Supports [b]1.8.0[/b] and [b]Leviathian DLC[/b]
+[b][h1]Last updated:[/h1] Jan 19th 2018[/b]
+Supports [b]1.9.1[/b] and [b]Leviathian DLC[/b]
 Source: [url=https://github.com/psykzz/Rapid-Research]https://github.com/psykzz/Rapid-Research[/url]
 
 Support for all languages (although its not translated)
