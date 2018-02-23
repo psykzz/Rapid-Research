@@ -1,6 +1,6 @@
-l_english:
- orbital_research_outpost:0 "Orbital Research Outpost"
- drug_enhanced_research:0 "Drug Enhanced Research"
- enhanced_research_desc:0 "This Edict enforces the use of drugs throught the science teams, leading to a massive uptick in productivity.\n\n"
- going_to_war:0 "Going To War"
- going_to_war_desc:0 "This Edict prepares your lands for war, ensuring the maneuver of ships isn't your downfall.\n\n"
+﻿l_english:
+ sm_orbital_research_outpost:0 "Orbital Research Outpost"
+ edict_drug_enhanced_research:0 "Drug Enhanced Research"
+ edict_enhanced_research_desc:0 "This Edict enforces the use of drugs throught the science teams, leading to a massive uptick in productivity.\n\n"
+ edict_going_to_war:0 "Going To War"
+ edict_going_to_war_desc:0 "This Edict prepares your lands for war, ensuring the maneuver of ships isn't your downfall.\n\n"
