@@ -10,7 +10,7 @@ orbital_research_outpost = {
 	}
 	
 	required_resources = {
-		energy = 1
+		energy = 100
 	}
 
 	produced_resources = {
