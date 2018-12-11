@@ -2,20 +2,20 @@
 Stellaris Mod - Rapid Research
 
 
-## Workshop 
+## Workshop
 http://steamcommunity.com/sharedfiles/filedetails/?id=722086034
 
 
-## Workshop desc 
+## Workshop desc
 
 ```
-[b][h1]Last updated:[/h1] Jun 9th 2018[/b]
-Supports [b]2.1[/b] DLC: [b]Leviathian[/b], [b]Apocalypse[/b]
+[b][h1]Last updated:[/h1] Dec 11th 2018[/b]
+Supports [b]2.2[/b] DLC: [b]MegaCorps[/b], [b]Apocalypse[/b], [b]Utopia[/b], [b]Leviathian[/b]
 Source: [url=https://github.com/psykzz/Rapid-Research]https://github.com/psykzz/Rapid-Research[/url]
 
 Support for all languages (although its not translated)
 
-The aim with this mod is to push you quicker into the late game by allowing you to manage your influence as a way to boost your research. 
+The aim with this mod is to push you quicker into the late game by allowing you to manage your influence as a way to boost your research.
 
 This mod provides two different systems, one for the early game and another for late game.
 
