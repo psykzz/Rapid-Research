@@ -4,30 +4,45 @@
 @Edict3Cost = 300
 
 @EdictDuration = 3600
+@Edict2Duration = 1800
 
-country_edict = {
-	name = "drug_enhanced_research"
+drug_enhanced_research = {
 	length = @EdictDuration
-	cost = { influence = @Edict3Cost }
+
+	resources = {
+		category = edicts
+		cost = {
+			influence = @Edict3Cost
+		}
+	}
+
 	modifier = {
 		country_engineering_tech_research_speed = 2.0
 		country_society_tech_research_speed = 2.0
 		country_physics_tech_research_speed = 2.0
   	}
+
 	ai_weight = {
 		weight = 0
 	}  
 }
 
-country_edict = {
-	name = "going_to_war"
-	length = 1800
-	cost = { influence = @Edict2Cost }
-	modifier = {
-		ship_upkeep_mult = -0.30
-	}
-	ai_weight = {
-		weight = 0
-	}  
-}
+# going_to_war = {
+#	length = @Edict2Duration
+#
+#	resources = {
+#		category = edicts
+#		cost = {
+#			influence = @Edict2Cost
+#		}
+#	}
+#
+#	modifier = {
+#		ships_upkeep_mult = -0.30
+#	}
+#
+#	ai_weight = {
+#		weight = 0
+#	}  
+# }
 
